@@ -1,0 +1,6 @@
+var fun = "this is fun";
+if (fun === "this is fun") {
+  alert(fun);
+  }
+  else alert("you are not funny");
+
